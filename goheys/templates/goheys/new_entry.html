@@ -1,0 +1,13 @@
+{% extends "goheys/base.html" %}
+{% block content %}
+
+    <P><a href="{% url 'goheys:topic' topic.id %}">{{ topic }}</a> </P>
+
+    <P>Add a new entry:</P>
+    <form action="{% url 'goheys:new_entry' topic.id %}" method="post">
+    {% csrf_token %}
+    {{ form.as_p }}
+    <button name="submit">add entry</button>
+  </form>
+
+{% endblock content %}

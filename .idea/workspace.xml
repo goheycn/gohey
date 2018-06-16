@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fdaaa6d9-3ad2-4d4f-9a14-bb84805ea83f" name="默认的" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/gohey$admin.coverage" NAME="admin Coverage Results" MODIFIED="1528097927484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/goheys" />
+    <SUITE FILE_PATH="coverage/gohey$urls.coverage" NAME="urls Coverage Results" MODIFIED="1528254751924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/goheys" />
+    <SUITE FILE_PATH="coverage/gohey$settings.coverage" NAME="settings Coverage Results" MODIFIED="1528098738378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gohey" />
+    <SUITE FILE_PATH="coverage/gohey$Test__gohey.coverage" NAME="Test: gohey Coverage Results" MODIFIED="1528162656499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/gohey$Test__goheys.coverage" NAME="Test: goheys Coverage Results" MODIFIED="1528162637411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/gohey$urls__1_.coverage" NAME="urls (1) Coverage Results" MODIFIED="1528291742413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gohey" />
+    <SUITE FILE_PATH="coverage/gohey$views.coverage" NAME="views Coverage Results" MODIFIED="1528161687538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/goheys" />
+    <SUITE FILE_PATH="coverage/gohey$manage.coverage" NAME="manage Coverage Results" MODIFIED="1528292062993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/gohey$7_8.coverage" NAME="7.8 Coverage Results" MODIFIED="1528726417776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="H:/入门到实践/列表" />
+    <SUITE FILE_PATH="coverage/gohey$models.coverage" NAME="models Coverage Results" MODIFIED="1528256142285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/goheys" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="gohey" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="F:/mysite" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/goheys/admin.py" />
+        <option value="H:/入门到实践/《Python编程》源代码文件/chapter_18/learning_logs/templates/learning_logs/base.html" />
+        <option value="H:/入门到实践/《Python编程》源代码文件/chapter_18/learning_logs/templates/learning_logs/topic.html" />
+        <option value="$PROJECT_DIR$/goheys/forms.py" />
+        <option value="$PROJECT_DIR$/goheys/templates/goheys/new_entry.html" />
+        <option value="$PROJECT_DIR$/../../learning_log/learning_logs/models.py" />
+        <option value="$PROJECT_DIR$/../../learning_log/learning_log/urls.py" />
+        <option value="$PROJECT_DIR$/../../learning_log/learning_logs/views.py" />
+        <option value="$PROJECT_DIR$/../../learning_log/users/views.py" />
+        <option value="$PROJECT_DIR$/../../learning_log/learning_logs/migrations/0003_topic_owner.py" />
+        <option value="$PROJECT_DIR$/../../learning_log/learning_logs/migrations/0002_entry.py" />
+        <option value="$PROJECT_DIR$/../../learning_log/users/urls.py" />
+        <option value="$PROJECT_DIR$/../../learning_log/learning_logs/urls.py" />
+        <option value="$PROJECT_DIR$/goheys/templates/goheys/entry.html" />
+        <option value="H:/入门到实践/《Python编程》源代码文件/chapter_19/learning_logs/views.py" />
+        <option value="$PROJECT_DIR$/goheys/templates/goheys/edit_entry.html" />
+        <option value="$PROJECT_DIR$/users/templates/users/register.html" />
+        <option value="$PROJECT_DIR$/users/urls.py" />
+        <option value="$PROJECT_DIR$/users/views.py" />
+        <option value="H:/入门到实践/《Python编程》源代码文件/chapter_19/learning_logs/models.py" />
+        <option value="$PROJECT_DIR$/goheys/models.py" />
+        <option value="H:/入门到实践/《Python编程》源代码文件/chapter_20/learning_logs/templates/learning_logs/index.html" />
+        <option value="$PROJECT_DIR$/users/templates/users/login.html" />
+        <option value="$PROJECT_DIR$/goheys/templates/goheys/new_topic.html" />
+        <option value="$PROJECT_DIR$/goheys/templates/goheys/topics.html" />
+        <option value="$PROJECT_DIR$/goheys/templates/goheys/topic.html" />
+        <option value="$PROJECT_DIR$/gohey/urls.py" />
+        <option value="$PROJECT_DIR$/goheys/templates/goheys/base.html" />
+        <option value="$PROJECT_DIR$/goheys/views.py" />
+        <option value="H:/入门到实践/列表/7.8.py" />
+        <option value="$PROJECT_DIR$/readme.txt" />
+        <option value="$USER_HOME$/gohey/readme.txt" />
+        <option value="$PROJECT_DIR$/goheys/templates/goheys/index.html" />
+        <option value="$PROJECT_DIR$/gohey/wsgi.py" />
+        <option value="$PROJECT_DIR$/goheys/urls.py" />
+        <option value="$PROJECT_DIR$/gohey/settings.py" />
+        <option value="$USER_HOME$/Desktop/settings.py" />
+        <option value="F:/mysite/readme.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="41" />
+    <option name="y" value="443" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="gohey" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysite" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="F:/mysite" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Users\LDF\PycharmProjects\gohey\goheys\templates\goheys" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.7.8">
+    <configuration name="base.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/gohey/goheys/templates/goheys/base.html" />
+    <configuration name="7.8" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="gohey" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="H:/入门到实践/列表" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="H:/入门到实践/列表/7.8.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="gohey" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="models" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="gohey" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/goheys" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/goheys/models.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="urls (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="gohey" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/gohey" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gohey/urls.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.manage" />
+      <item itemvalue="Python.models" />
+      <item itemvalue="JavaScript Debug.base.html" />
+      <item itemvalue="Python.urls (1)" />
+      <item itemvalue="Python.7.8" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.7.8" />
+        <item itemvalue="Python.manage" />
+        <item itemvalue="Python.urls (1)" />
+        <item itemvalue="JavaScript Debug.base.html" />
+        <item itemvalue="Python.models" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fdaaa6d9-3ad2-4d4f-9a14-bb84805ea83f" name="默认的" comment="" />
+      <created>1528094526216</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1528094526216</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Test__goheys - 2018.06.05 at 09h 37m 24s.xml">
+      <configuration name="Test: goheys" configurationId="DjangoTestsConfigurationType" />
+    </history-entry>
+    <history-entry file="Test__gohey - 2018.06.05 at 09h 37m 38s.xml">
+      <configuration name="Test: gohey" configurationId="DjangoTestsConfigurationType" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="41" y="443" width="1346" height="688" extended-state="0" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="14" />
+      <window_info anchor="bottom" id="调试" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="5" />
+      <window_info anchor="bottom" id="运行" order="0" weight="0.66835874" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.48785046" visible="true" weight="0.34898278" />
+      <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="2" />
+      <window_info anchor="right" id="SciView" order="0" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="0" sideWeight="0.5121495" side_tool="true" visible="true" weight="0.34898278" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="13" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Run" order="10" />
+      <window_info anchor="bottom" id="Debug" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="8" />
+      <window_info anchor="bottom" id="Cvs" order="12" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/gohey/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#629#661#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goheys/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="5" column="44" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2340">
+          <caret line="65" column="20" lean-forward="true" selection-start-line="65" selection-start-column="20" selection-end-line="65" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/入门到实践/《Python编程》源代码文件/chapter_20/learning_log/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3348">
+          <caret line="93" lean-forward="true" selection-start-line="93" selection-end-line="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/users/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gohey/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1584">
+          <caret line="44" column="14" lean-forward="true" selection-start-line="44" selection-start-column="14" selection-end-line="44" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gohey/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="17" column="36" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="36" />
+          <folding>
+            <element signature="e#629#661#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goheys/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="10" lean-forward="true" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goheys/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/gohey/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goheys/templates/goheys/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gohey/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="25" column="2" lean-forward="true" selection-start-line="25" selection-end-line="25" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/gohey/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goheys/templates/goheys/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/gohey/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goheys/templates/goheys/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1296">
+          <caret line="36" column="29" lean-forward="true" selection-start-line="26" selection-end-line="36" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goheys/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2808">
+          <caret line="78" column="55" selection-start-line="78" selection-start-column="55" selection-end-line="78" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/入门到实践/列表/7.8.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goheys/templates/goheys/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="936">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goheys/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2808">
+          <caret line="78" column="55" selection-start-line="78" selection-start-column="55" selection-end-line="78" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goheys/templates/goheys/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4068">
+          <caret line="113" lean-forward="true" selection-start-line="113" selection-end-line="113" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goheys/templates/goheys/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goheys/templates/goheys/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="19" column="19" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$EXa0.447/startbootstrap-stylish-portfolio-gh-pages/index.html" />
+    <entry file="file://H:/入门到实践/列表/7.8.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goheys/templates/goheys/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="36" column="29" selection-start-line="26" selection-end-line="36" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goheys/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="78" column="55" selection-start-line="78" selection-start-column="55" selection-end-line="78" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="1" column="21" lean-forward="true" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goheys/templates/goheys/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/gohey/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gohey/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-108">
+          <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gohey/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#629#661#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/users/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/入门到实践/《Python编程》源代码文件/chapter_20/learning_log/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3348">
+          <caret line="93" selection-start-line="93" selection-end-line="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2340">
+          <caret line="65" column="20" selection-start-line="65" selection-start-column="20" selection-end-line="65" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gohey/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-396">
+          <caret line="44" column="14" selection-start-line="44" selection-start-column="14" selection-end-line="44" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goheys/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="5" column="44" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/mysite/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="1" column="21" lean-forward="true" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
