@@ -1,0 +1,22 @@
+{% extends "goheys/base.html" %}
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+{% block header %}
+  <div class='jumbotron'>
+      <h2>学习随笔</h2>
+  </div>
+{% endblock %}
+
+{% block content %}
+  <h3>
+    <a href="{% url 'users:register' %}">来注册一个账号吧</a> 学习和记录你学习过程中遇到的问题和积累经验.
+  </h3>
+  <h3>
+    当你有所收获的时候，记得要随时随地记下来哦.
+  </h3>
+
+<h3>
+Gohey
+这是我的网站，我在慢慢完善它
+</h3>
+{% endblock content %}

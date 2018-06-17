@@ -1,0 +1,135 @@
+{% load bootstrap3 %}
+<!DOCTYPE html>
+<html lang="zh-hans">
+  <head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+
+    <title>Go Hey</title>
+      
+
+
+    {% bootstrap_css %}
+
+    {% bootstrap_javascript %}
+
+ <style>
+  body
+   {
+            background-color:#b0c4de;
+   }
+   </style>
+  </head>
+
+
+    <!-- Static navbar -->
+
+<body class="hold-transition skin-blue-light layout-top-nav fixed">
+<div class="wrapper">
+  <header class="main-header">
+    <!-- 导航 -->
+
+    <nav class="navbar navbar-default navbar-static-top">
+      <div class="container">
+
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed"
+              data-toggle="collapse" data-target="#navbar"
+              aria-expanded="false" aria-controls="navbar">
+          </button>
+          <a class="navbar-brand" href="{% url 'goheys:index' %}">Go Hey</a>
+         </div>
+
+      </div>
+	        <div class="collapse navbar-collapse pull-left" id="navbar-collapse">
+                
+	          <ul class="nav navbar-nav">
+	            	            <li class="active"><a href="{% url 'goheys:index' %}">首页<span class="sr-only">(current)</span></a></li>
+	                                <li class="dropdown ">
+		              <a href="#" class="dropdown-toggle" data-toggle="dropdown">前端 <span class="caret"></span></a>
+		              <ul class="dropdown-menu" role="menu">
+		                		                	<li><a href="http://93jc.cn/module/html5.html">html5</a></li>
+		                		                	<li><a href="http://93jc.cn/module/js.html">js</a></li>
+		                		                	<li><a href="http://93jc.cn/module/jq.html">jq</a></li>
+		                		                	<li><a href="http://93jc.cn/module/其他.html">其他</a></li>
+		                		                	<li><a href="http://93jc.cn/module/ajax.html">ajax</a></li>
+		                		                	<li><a href="http://93jc.cn/module/css.html">css</a></li>
+                                                    <li><a href="#">呵呵</a></li>
+		                		              </ul>                                     
+		            </li>
+	                                <li class="dropdown ">
+		              <a href="#" class="dropdown-toggle" data-toggle="dropdown">后端 <span class="caret"></span></a>
+		              <ul class="dropdown-menu" role="menu">
+		                		                	<li><a href="http://93jc.cn/module/php.html">php</a></li>
+		                		                	<li><a href="http://93jc.cn/module/java.html">java</a></li>
+		                		                	<li><a href="http://93jc.cn/module/数据库.html">数据库</a></li>
+		                		                	<li><a href="http://93jc.cn/module/python.html">python</a></li>
+		                		                	<li><a href="http://93jc.cn/module/C sharp.html">C sharp</a></li>
+		                		              </ul>
+		            </li>
+	                                <li class="dropdown ">
+		              <a href="#" class="dropdown-toggle" data-toggle="dropdown">移动端 <span class="caret"></span></a>
+		              <ul class="dropdown-menu" role="menu">
+		                		                	<li><a href="http://93jc.cn/module/android.html">android</a></li>
+		                		                	<li><a href="http://93jc.cn/module/ios.html">ios</a></li>
+		                		              </ul>
+		            </li>
+	                                <li class="dropdown ">
+		              <a href="#" class="dropdown-toggle" data-toggle="dropdown">服务器/os <span class="caret"></span></a>
+		              <ul class="dropdown-menu" role="menu">
+		                		                	<li><a href="http://93jc.cn/module/apache.html">apache</a></li>
+		                		                	<li><a href="http://93jc.cn/module/nginx.html">nginx</a></li>
+		                		                	<li><a href="http://93jc.cn/module/windows.html">windows</a></li>
+		                		                	<li><a href="http://93jc.cn/module/mac.html">mac</a></li>
+		                		                	<li><a href="http://93jc.cn/module/linux.html">linux</a></li>
+		                		              </ul>
+		            </li>
+	                                <li class="dropdown ">
+		              <a href="#" class="dropdown-toggle" data-toggle="dropdown">生活娱乐 <span class="caret"></span></a>
+		              <ul class="dropdown-menu" role="menu">
+		                		                	<li><a href="http://93jc.cn/module/读书.html">读书</a></li>
+		                		                	<li><a href="http://93jc.cn/module/音乐.html">音乐</a></li>
+		                		                	<li><a href="http://93jc.cn/module/健身.html">健身</a></li>
+		                		                	<li><a href="http://93jc.cn/module/游戏.html">游戏</a></li>
+		                		                	<li><a href="http://93jc.cn/module/情感.html">情感</a></li>
+		                		              </ul>
+            <li>
+       </div>
+            <div class="collapse navbar-collapse pull-right" id="navbar-collapse">
+             <ul class="nav navbar-nav ">
+             <li><a href="{% url 'goheys:topics' %}">Topics</a></li>
+            {% if user.is_authenticated %}
+              <li><a>Hello, {{ user.username }}.</a></li>
+              <li><a href="{% url 'users:logout' %}">log out</a></li>
+            {% else %}
+              <li><a href="{% url 'users:register' %}">register</a></li>
+              <li><a href="{% url 'users:login' %}">log in</a></li>
+
+           </li>     
+            {% endif %}
+
+
+
+ 
+        </div><!--/.nav-collapse -->
+
+      </div>
+    </nav>
+
+    <div class="container">
+
+      <div class="page-header">
+        {% block header %}{% endblock %}
+      </div>
+      <div>
+        {% block content %}{% endblock %}
+      </div>
+
+    </div> <!-- /container -->
+
+  </body>
+</html>
